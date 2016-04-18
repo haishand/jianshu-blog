@@ -1,2 +1,2 @@
 # leetcode
-Play with leetcode
+leetcode solutions
